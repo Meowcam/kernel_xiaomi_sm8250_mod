@@ -17,6 +17,7 @@ on:
           - 'cas'
           - 'apollo'
           - 'alioth'
+          - 'thyme'
           - 'elish'
           - 'enuma'
           - 'dagu'
